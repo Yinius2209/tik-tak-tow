@@ -4,6 +4,7 @@
 
 h1 {color: rgb(7, 255, 255);
     font-size: 45px;
+    font-family: 'Secular One', sans-serif;
 }
 
 /* main containern */ 
@@ -37,7 +38,7 @@ h1 {color: rgb(7, 255, 255);
     border: 5px solid rgba(1, 253, 241, 0.966);
     margin: auto;
     border-radius: 30px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: dodgerblue;
     font-size: 20px;
     cursor: pointer;
@@ -55,3 +56,4 @@ h1 {color: rgb(7, 255, 255);
 html{
     background-color: rgb(99, 3, 253); 
 }
+
