@@ -1,4 +1,4 @@
-#La vieja
+# Tic Tac Toe
 
 Esta es una versión del juego de tres en raya (Tic Tac Toe) creado mediante JavaScript, HTML y CSS.
 
